@@ -1,4 +1,4 @@
-
+s
 body {
 	width:900px;
 	margin: 0 auto;
@@ -150,77 +150,6 @@ form textarea {
 .button-group button:last-child {
 	float: right;
 	padding-right: 140px;
-
+	margin-bottom: 10px;
 }
-
-/*FOOTER SECTION*/
-footer {
-	font-family: 'Lato', sans-serif;
-	background: #F8F9FD;
-	height: 200px;
-	padding: 0 20%;
-}
-
-.previous-article,
-.next-article {
-	display: inline-block;
-	width: 50%;	
-	position: relative;
-}
-
-.previous-article {
-	left: 20%;
-	position: absolute;
-}
-
-.previous-button {
-	text-align: left;
-}
-
-.next-article {
-	position: absolute;
-	right: 20%;
-}
-
-.next-button {
-	text-align: right;
-}
-
-.previous-button,
-.next-button {
-	margin: 10% 0;
-}
-
-.previous-button a,
-.next-button a { 
-	color: #434345;
-	font-weight: bold;
-	margin: 3% 0;
-	text-decoration: none;
- }
-
-.previous-button p,
-.next-button p {
-	font-weight: normal;
-	margin: 3% 0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
