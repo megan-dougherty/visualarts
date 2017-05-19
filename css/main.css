@@ -1,4 +1,4 @@
-s
+
 body {
 	width:900px;
 	margin: 0 auto;
@@ -30,7 +30,8 @@ nav .search {
 }
 
 nav input {
-	border: none; 
+	border: .5px solid grey;
+	margin-right: 10px; 
 }
 
 /*HEAD SECTION*/
